@@ -1,0 +1,12 @@
+{
+  "recommendations": [
+    "rust-lang.rust",
+    "matklad.rust-analyzer",
+    "dunstontc.vscode-rust-syntax",
+    // "msjsdiag.debugger-for-chrome",
+    // "eamodio.gitlens",
+    // "esbenp.prettier-vscode",
+    // "ms-vscode.vscode-typescript-tslint-plugin",
+    "VisualStudioExptTeam.vscodeintellicode"
+  ]
+}
